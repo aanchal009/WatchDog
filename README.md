@@ -20,7 +20,7 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 
 #### HOW TO MAKE IT WORK?
 1) Download the zip file and extract it on local system.
-2) Visit [Extensions](chrome://extensions) in your Google Chrome.
+2) Visit chrome://extensions in your Google Chrome.
 3) Enable developer mode and click on load unpacked.
 4) It will open file explorer panel.
 5) Navigate to Extracted Folder and load it.
