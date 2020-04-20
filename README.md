@@ -1,6 +1,6 @@
 # NOW OR NEVER HACKATHON 2020
     
-   ![Playgrounds](./img1.png)
+   ![Playgrounds](/img1.png)
   
 <h1 align="center">
   <br>
