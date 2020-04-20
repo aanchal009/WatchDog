@@ -1,1 +1,1 @@
-# WatchDog
+# NOW OR NEVER HACKATHON 2020
