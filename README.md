@@ -27,7 +27,7 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 2. Css
 3. Python
 3. JavaScript
-5 Libraries Needed
+4. Libraries Needed
      * gspread 
      * oauth2client
      * dash
