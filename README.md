@@ -19,6 +19,7 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 7) The extension will start working as soon as you open a new tab on your window.
 8) On clicking the icon of the extension, you can see the time when you opened that page and the time you've spent on it.
 ***
+#### VIDEO LINK: https://drive.google.com/open?id=1ODv8MKwkaFebQWAVcEwsymdC01odc72m
 ### IMAGES:
 ### EXTENSION
 ![](images/extension.png)
