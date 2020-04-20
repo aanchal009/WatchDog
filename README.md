@@ -31,6 +31,6 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
      * dash renderer
      * dash-html-component
      * dash-core-component
-     
+![](images/Webpage(1).png)
 
 
