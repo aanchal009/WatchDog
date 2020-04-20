@@ -13,4 +13,12 @@
 </p>
 
 # INSTRUCIONS 
+# 
+### LIBRARIES NEEDED:
+1- gspread 
+2-oauth2client
+3- dash
+4- dash renderer
+5- dash-html-component
+6- dash-core-component
 
