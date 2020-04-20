@@ -20,7 +20,9 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 8) On clicking the icon of the extension, you can see the time when you opened that page and the time you've spent on it.
 
 ### IMAGES:
+### EXTENSION
 ![](images/extension.png)
+### RANKLIST
 ![](images/Webpage(1).png)
 ![](images/Webpage(2).png)
 
@@ -36,6 +38,13 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
      * dash renderer
      * dash-html-component
      * dash-core-component
+     
 ### TEAM MATES:
+* Aanchal Singh
+* Aditi Shreya
+* Namrata Gupta
+* Sonu Verma
+* Trishala Naman
+
 
 
