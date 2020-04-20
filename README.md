@@ -18,7 +18,8 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 6) Now you will able to see extension icon at right of search/url bar in a chrome.
 7) The extension will start working as soon as you open a new tab on your window.
 8) On clicking the icon of the extension, you can see the time when you opened that page and the time you've spent on it.
-
+![](images/Webpage(1).png)
+![](images/Webpage(2).png)
 ### TECH STACKS:
 1. Html
 2. Css
@@ -31,6 +32,5 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
      * dash renderer
      * dash-html-component
      * dash-core-component
-![](images/Webpage(1).png)
-![](images/Webpage(2).png)
+
 
