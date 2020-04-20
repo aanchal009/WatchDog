@@ -11,6 +11,17 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 1. Add the json file and script in one folder. 
 2. Run the script and access the webpage locally on  http://127.0.0.1:8050/ from the browser.
 
+#### HOW TO MAKE IT WORK?
+1) extract zip file
+2) Open chrome . Go to extension.
+3) enable Developer Mode.
+4) After enabling , you will find few new bar at top.
+5) Click on Load unpacked.
+6) it will open file explorer panel.
+7) navigate to Extracted Folder and load it.
+8) Now you will able to see extension icon at right of search/url bar in a chrome.
+9) Rest explore yourself, Make sure you are connected to Internet.
+
 ### TECH STACKS:
 1. Stack me
 2. Html
