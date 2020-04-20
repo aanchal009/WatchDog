@@ -1,6 +1,6 @@
 # NOW OR NEVER HACKATHON 2020
     
-   ![Playgrounds](http://url/to/2020-04-20(1).png)
+   ![Playgrounds](./2020-04-20(1).png)
   
 <h1 align="center">
   <br>
