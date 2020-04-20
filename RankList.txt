@@ -1,0 +1,96 @@
+Rohit Verma 71 80 25 4360 
+Kanishk singhal 71 80 25 4360 
+Sonu Verma 71 81 23 4290 
+Trishala 79 77 21 4150 
+Namrata Gupta 70 77 19 3960 
+Safura Zaheer 71 78 17 3900 
+Aditi Shreya 64 78 17 3830 
+Sanjana Agrawal 71 73 18 3800 
+Ashish Ranjan 71 77 15 3770 
+Siddharth 71 77 13 3670 
+Diksha 70 72 15 3610 
+Pallav 46 76 17 3590 
+Astha Gupta 77 77 10 3580 
+Vishal Katiyar 79 71 12 3520 
+Piyush Agarwal 77 69 9 3290 
+Ayush Gupta 70 70 8 3200 
+Vishal Singh 69 64 11 3160 
+Soumitra Shukla 68 71 4 3010 
+Prayanshu tyagi 71 59 10 2980 
+Saif Ali Ansari 70 64 5 2870 
+Adarsh  71 58 6 2750 
+Prashant 65 63 4 2740 
+Aanchal Singh 70 59 3 2620 
+Yohansh Gupta 65 55 6 2600 
+Tooba Zameer 70 56 4 2580 
+Ravindra Kumar 68 62 0 2540 
+Dinesh Kumar 70 58 1 2490 
+Aniket 60 50 7 2450 
+Vishnu Kumar 65 51 3 2330 
+Tanvi Jain 69 52 0 2250 
+Susheel Gupta 56 44 7 2230 
+Ayush Kumar 74 39 2 2010 
+Ritik 63 43 0 1920 
+Abhishek Singh 57 38 2 1810 
+Sandeep yadav 68 28 1 1570 
+Shivanshi Gupta 74 24 2 1560 
+Mohil Gupta 74 21 0 1370 
+Gopal Kumar 52 3 0 610 
+Kushargra Shukla 49 1 0 520 
+Sudhanshu 41 3 0 500 
+Shruti Gupta 35 0 0 350 
+Rahul Yadav 26 1 0 290 
+Aditya 27 0 0 270 
+Sandeep Pal 21 2 0 270 
+Shivangi Tiwari 17 0 0 170 
+Utkarsh Prakash 16 0 0 160 
+Shubham Jaiswal 4 0 0 40 
+Maneesh Kumar Patel 0 0 0 0 
+Kanishk singhal 71 81 25 4390 
+Rohit Verma 71 80 25 4360 
+Sonu Verma 71 81 23 4290 
+Trishala 79 77 21 4150 
+Namrata Gupta 70 77 19 3960 
+Safura Zaheer 71 78 17 3900 
+Aditi Shreya 64 79 17 3860 
+Sanjana Agrawal 71 73 18 3800 
+Ashish Ranjan 71 77 15 3770 
+Siddharth 71 77 13 3670 
+Diksha 70 72 15 3610 
+Pallav 46 76 17 3590 
+Astha Gupta 77 77 10 3580 
+Vishal Katiyar 79 71 12 3520 
+Piyush Agarwal 77 69 9 3290 
+Ayush Gupta 70 70 8 3200 
+Vishal Singh 70 64 11 3170 
+Soumitra Shukla 68 72 4 3040 
+Prayanshu tyagi 71 59 10 2980 
+Saif Ali Ansari 70 64 5 2870 
+Adarsh  71 58 7 2800 
+Prashant 65 63 4 2740 
+Aanchal Singh 70 60 3 2650 
+Yohansh Gupta 65 55 6 2600 
+Tooba Zameer 70 56 4 2580 
+Aniket 60 52 8 2560 
+Ravindra Kumar 68 62 0 2540 
+Dinesh Kumar 70 58 1 2490 
+Vishnu Kumar 65 51 3 2330 
+Susheel Gupta 57 45 7 2270 
+Tanvi Jain 69 52 0 2250 
+Ayush Kumar 74 39 2 2010 
+Ritik 64 44 0 1960 
+Abhishek Singh 58 38 2 1820 
+Shivanshi Gupta 75 24 2 1570 
+Sandeep yadav 68 28 1 1570 
+Mohil Gupta 75 21 0 1380 
+Gopal Kumar 52 3 0 610 
+Kushargra Shukla 49 1 0 520 
+Sudhanshu 41 3 0 500 
+Shruti Gupta 35 0 0 350 
+Rahul Yadav 26 1 0 290 
+Aditya 27 0 0 270 
+Sandeep Pal 21 2 0 270 
+Shivangi Tiwari 17 0 0 170 
+Utkarsh Prakash 16 0 0 160 
+Shubham Jaiswal 4 0 0 40 
+Maneesh Kumar Patel 0 0 0 0 
