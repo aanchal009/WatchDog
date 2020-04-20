@@ -23,12 +23,11 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 9) Rest explore yourself, Make sure you are connected to Internet.
 
 ### TECH STACKS:
-1. Stack me
-2. Html
-3. Css
+1. Html
+2. Css
+3. Python
 3. JavaScript
-5. Python
-6. Libraries Needed
+5 Libraries Needed
      * gspread 
      * oauth2client
      * dash
