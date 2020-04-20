@@ -39,8 +39,8 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
      * dash-html-component
      * dash-core-component
 ***
-## TEAM NAME:NOOBS
-### TEAM MATES:
+### TEAM NAME : NOOBS
+##### TEAM MATES:
 * Aanchal Singh
 * Aditi Shreya
 * Namrata Gupta
