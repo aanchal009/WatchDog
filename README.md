@@ -1,6 +1,6 @@
 # NOW OR NEVER HACKATHON 2020
 
-# OVERVIEW
+### OVERVIEW
 
 <p align="center">
 This repository contains the chrome extension <strong>(WATCHDOG)</strong> source code that notifies the user how much time he is spending on the particular webpage.Also there is an alram within the extension that beeps once the user reaches the time limit set for the particular webpage. 
