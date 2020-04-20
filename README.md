@@ -1,12 +1,10 @@
 # NOW OR NEVER HACKATHON 2020
-<h1 align="center">
-  <br>
+
    ![Playgrounds](2020-04-20(1).png)
-  <br>
-</h2>
+  
 <h1 align="center">
   <br>
-   <img src="2020-04-20(1).jpg" alt="WATCHDOG1" title="DOG1" />
+   <img src="2020-04-20(1).png" alt="WATCHDOG1" title="DOG1" />
   <br>
 </h2>
 
