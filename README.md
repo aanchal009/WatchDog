@@ -1,9 +1,4 @@
 # NOW OR NEVER HACKATHON 2020
-<h1 align="center">
-  <br>
-   <img src="./images.jpg" alt="Sepsis Detction" title="Abhigyataa" />
-  <br>
-</h1>
 
 # OVERVIEW
 
@@ -13,19 +8,22 @@
 </p>
 
 ### INSTRUCIONS:
-
-1- Add the json file and script in one folder. 
-2- Run the script and access the webpage locally on  http://127.0.0.1:8050/ from the browser.
+1. Add the json file and script in one folder. 
+2. Run the script and access the webpage locally on  http://127.0.0.1:8050/ from the browser.
 
 ### TECH STACKS:
+Stack me
+Html
+Css
+JavaScript
 
 
 ### LIBRARIES NEEDED:
 
-1- gspread 
-2-oauth2client
-3- dash
-4- dash renderer
-5- dash-html-component
-6- dash-core-component
+1. gspread 
+2. oauth2client
+3. dash
+4. dash renderer
+5. dash-html-component
+6. dash-core-component
 
