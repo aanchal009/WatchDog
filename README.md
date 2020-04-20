@@ -19,15 +19,15 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 2. Run the script and access the webpage locally on  http://127.0.0.1:8050/ from the browser.
 
 #### HOW TO MAKE IT WORK?
-1) extract zip file
-2) Open chrome . Go to extension.
-3) enable Developer Mode.
-4) After enabling , you will find few new bar at top.
-5) Click on Load unpacked.
-6) it will open file explorer panel.
-7) navigate to Extracted Folder and load it.
-8) Now you will able to see extension icon at right of search/url bar in a chrome.
-9) Rest explore yourself, Make sure you are connected to Internet.
+1) Download the zip file and extract it on local system.
+2) Visit chrome://extensions/ in your Google Chrome.
+3) Enable developer mode and click on load unpacked.
+4) It will open file explorer panel.
+5) Navigate to Extracted Folder and load it.
+6) Now you will able to see extension icon at right of search/url bar in a chrome.
+7) The extension will start working as soon as you open a new tab on your window.
+8) On clicking the icon of the extension, you can see the time when you opened that page and the time you've spent on it.
+9) By right clicking and selecting options, you can set the time for alarms
 
 ### TECH STACKS:
 1. Html
