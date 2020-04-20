@@ -1,5 +1,5 @@
 # NOW OR NEVER HACKATHON 2020
-![play](/image1.png)
+
 ### OVERVIEW
 
 This repository contains the chrome extension <strong>(WATCHDOG)</strong> source code that notifies the user how much time he/she is spending on the particular webpage.Also there is an alarm within the extension that beeps once the user reaches the time limit set for the particular webpage. 
@@ -31,7 +31,6 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
      * dash renderer
      * dash-html-component
      * dash-core-component
-![](images/Webpage(1).png)
-![](images/Webpage(2).png)
+     
 
 
