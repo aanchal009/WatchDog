@@ -3,7 +3,12 @@
   <br>
    <img src="2020-04-20.jpg" alt="WATCHDOG" title="DOG" />
   <br>
-</h1>
+</h2>
+<h1 align="center">
+  <br>
+   <img src="2020-04-20(1).jpg" alt="WATCHDOG1" title="DOG1" />
+  <br>
+</h2>
 
 ### OVERVIEW
 This repository contains the chrome extension <strong>(WATCHDOG)</strong> source code that notifies the user how much time he/she is spending on the particular webpage.Also there is an alarm within the extension that beeps once the user reaches the time limit set for the particular webpage. 
