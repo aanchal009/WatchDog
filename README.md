@@ -26,8 +26,7 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 ### EXTENSION
 ![](images/extension.png)
 ### RANKLIST
-![](images/Webpage(1).png)
-![](images/Webpage(2).png)
+![](images/ranklist.gif)
 ***
 ### TECH STACKS:
 1. Html
