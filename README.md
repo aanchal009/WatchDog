@@ -36,10 +36,9 @@ WATCHDOG is web solution made for displaying the graph and ranklist of the candi
 5. Libraries Needed
      * gspread 
      * oauth2client
-     * dash
-     * dash renderer
-     * dash-html-component
-     * dash-core-component
+     * flask
+     * apscheduler(for background scheduling)
+     * datetime
 ***
 ### TEAM NAME : NOOBS
 ##### TEAM MATES:
